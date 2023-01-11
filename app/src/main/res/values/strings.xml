@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BasicMvvmArchitecture</string>
+    <string name="counter_button_text">Click me</string>
+    <string name="anime_button">Save Anime</string>
+    <string name="anime_number_of_episodes">Number of episodes</string>
+    <string name="anime_title">Anime title</string>
+    <string name="title_activity_list">ListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="back_button_text">back</string>
+    <string name="anime_list_title">Anime List</string>
+    <string name="anime_title_2">Anime title</string>
+</resources>
